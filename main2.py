@@ -45,7 +45,7 @@ def listdir_nohidden(path):
 
             
             
-            
+print('making a small change to the main file')            
 reset_dir_bool=False 
 Dicom_bool=False
 ADC_bool=False
